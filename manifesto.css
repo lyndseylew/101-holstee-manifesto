@@ -1,0 +1,99 @@
+/** Page Fonts **/
+body {
+	font-family: 'Amatic SC', cursive;
+	font-size: 28px;
+	line-height: 1.0;
+	color: grey;
+	text-align: center;
+}
+
+p {
+	margin: 1px;
+}
+
+.font-small {
+  font-size: 27px;
+}
+
+.font-med {
+  font-size: 33px;
+}
+
+.font-large {
+  font-size: 38px;
+}
+
+.tag-line{
+	font-size: 42px;
+}
+
+.font-wide {
+  letter-spacing: 2px;
+}
+
+.font-narrow {
+  letter-spacing: -0.5px;
+}
+
+.font-fred {
+	font-family: 'Fredericka the Great', cursive;
+	color: steelblue;
+	text-transform: uppercase;
+	font-weight: bold;
+  line-height: 1.3em;
+}
+
+.main-message {
+	font-size: 50px;
+	font-family: 'Fredericka the Great', cursive;
+	line-height: 46px;
+	color: steelblue;
+}
+
+.second-message {
+	font-size: 70px;
+	font-family: 'Fredericka the Great', cursive;
+	color: steelblue;
+}
+
+/** Page Structure **/
+div {
+  padding:  6px 5px;
+	float: left;
+}
+
+article {
+	width: 520px;
+	background-color: rgba(255, 255, 255, 0.9);
+	margin: 20px;
+  	overflow: auto;
+}
+
+.very-small {
+	width: 100px;
+}
+
+.small {
+	width: 210px;
+}
+
+.large {
+	width: 286px;
+}
+
+.very-large{
+	width: 394px;
+}
+
+.half {
+	width: 248px;
+
+}
+
+.full {
+	width: 510px;
+}
+
+.tiled {
+	background: url("https://www.toptal.com/designers/subtlepatterns/patterns/morocco.png") repeat;
+}
